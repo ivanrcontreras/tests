@@ -1,0 +1,16 @@
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.csproj.AssemblyReference.cache
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.AssemblyInfoInputs.cache
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.AssemblyInfo.cs
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.csproj.CoreCompileInputs.cache
+C:\Users\Sinox\source\repos\Test4\Test4\bin\Debug\net5.0\Test4.exe
+C:\Users\Sinox\source\repos\Test4\Test4\bin\Debug\net5.0\Test4.deps.json
+C:\Users\Sinox\source\repos\Test4\Test4\bin\Debug\net5.0\Test4.runtimeconfig.json
+C:\Users\Sinox\source\repos\Test4\Test4\bin\Debug\net5.0\Test4.runtimeconfig.dev.json
+C:\Users\Sinox\source\repos\Test4\Test4\bin\Debug\net5.0\Test4.dll
+C:\Users\Sinox\source\repos\Test4\Test4\bin\Debug\net5.0\ref\Test4.dll
+C:\Users\Sinox\source\repos\Test4\Test4\bin\Debug\net5.0\Test4.pdb
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.dll
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\ref\Test4.dll
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.pdb
+C:\Users\Sinox\source\repos\Test4\Test4\obj\Debug\net5.0\Test4.genruntimeconfig.cache
